@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7fcffd89-b28d-435f-a640-6cbba323703b/resourceGroups/BRQ-BOT/providers/Microsoft.Web/sites/BRQ-BOT",
+    "appService.deploySubpath": "."
+}
